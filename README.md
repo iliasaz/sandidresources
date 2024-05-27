@@ -1,2 +1,2 @@
 # SandidResources
-SandidResources, LLC has exclusive rights to the content in t his repository
+SandidResources, LLC has exclusive rights to the content in this repository unless explicitely indicated.
